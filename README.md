@@ -1,5 +1,9 @@
 #  Espiral Dourada — Visualização Didática
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ioprudente/fibonacci/main/espiral-fibonacci.jpeg" alt="Espiral de Fibonacci com linha de sombra" width="600"/>
+</p>
+
 Uma visualização animada da **espiral dourada**, inspirada na sequência de Fibonacci. O projeto tem foco didático: exibe a fórmula em tempo real, mostra o crescimento iterativo da espiral e traz uma linha de sombra que acompanha sua trajetória, como um radar.
 
 ---
